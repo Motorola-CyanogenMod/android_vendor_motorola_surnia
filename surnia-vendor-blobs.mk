@@ -105,7 +105,6 @@ PRODUCT_COPY_FILES += vendor/motorola/surnia/proprietary/bin/adsprpcd:system/bin
     vendor/motorola/surnia/proprietary/lib/libpkip.so:system/lib/libpkip.so \
     vendor/motorola/surnia/proprietary/lib/libqmimotext.so:system/lib/libqmimotext.so \
     vendor/motorola/surnia/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
-    vendor/motorola/surnia/proprietary/lib/libqsap_sdk.so:system/lib/libqsap_sdk.so \
     vendor/motorola/surnia/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/motorola/surnia/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
     vendor/motorola/surnia/proprietary/lib/libtinyxml.so:system/lib/libtinyxml.so \
